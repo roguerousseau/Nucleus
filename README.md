@@ -6,4 +6,6 @@ A game engine written in c++
 Requirements:
 ```
 glfw
+vulkan
+cmake
 ```
