@@ -10,6 +10,7 @@ A modern, fast game engine written in C++.
 ```
 C++17   or newer
 CMake   3.20++
+GLFW
 OpenGL  
 Glad
 ```
