@@ -1,20 +1,46 @@
-# Nucleus
-A game engine written in c++
 
-# Compilation
+# Nucleus Engine
+A modern, fast game engine written in C++.
 
-## Requirements:
+# 🚀 Getting Started
+
+## Prerequisites
+
+### List of requirements
 ```
-glfw
-vulkan
-cmake
+C++17   or newer
+CMake   3.20++
+OpenGL  
+Glad
 ```
 
-### Ubuntu/Debian
-```bash
-sudo apt install cmake libglfw3-dev libvulkan-dev vulkan-validationlayers -y
-```
-### Arch Linux
-```bash
-sudo pacman -S --needed cmake glfw-wayland glfw-x11 vulkan-devel vulkan-validation-layers
-```
+### Installation guide
+<details>
+<summary><b>🐧 Linux</b></summary>
+
+<br>
+
+> <details>
+> <summary><b>Pacman</b> — Arch Linux</summary>
+>
+> Installation instructions coming soon.
+>
+> </details>
+>
+> <details>
+> <summary><b>APT</b> — Debian / Ubuntu</summary>
+>
+> Installation instructions coming soon.
+>
+> </details>
+
+</details>
+
+<details>
+<summary><b>🪟 Windows</b></summary>
+
+<br>
+
+Installation instructions coming soon.
+
+</details>
