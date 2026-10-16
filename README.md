@@ -1,6 +1,15 @@
-
-# Nucleus Engine
+<div align="center">
+<h1>Nucleus Engine</h1>
 A modern, fast game engine written in C++.
+
+[![Latest Version](https://img.shields.io/github/v/release/RogueRousseau/Nucleus?include_prereleases&label=Version)](https://github.com/RogueRousseau/Nucleus/releases)
+[![Last Update](https://img.shields.io/github/last-commit/RogueRousseau/Nucleus?label=Last%20Update)](https://github.com/RogueRousseau/Nucleus/commits)
+[![License](https://img.shields.io/github/license/RogueRousseau/Nucleus)](https://github.com/RogueRousseau/Nucleus/blob/main/LICENSE)
+![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?logo=linux&logoColor=black)
+
+</div>
+
+---
 
 # 🚀 Getting Started
 
@@ -8,6 +17,8 @@ A modern, fast game engine written in C++.
 
 ## Option 1: Prebuilt Binaries (Recommended)
 There are currently no releases.
+
+---
 
 ## Option 2: Build from Source (Not recommended)
 
@@ -20,6 +31,8 @@ OpenGL
 Glad
 Freetype2
 ```
+
+---
 
 ### Installing prerequisites & compiling
 
@@ -61,6 +74,8 @@ Installation instructions coming never.
 </details>
 
 # Troubleshooting
+
+---
 
 <details>
 <summary><b>"Failed to load font" when opening editor</b></summary>
